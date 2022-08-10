@@ -25,7 +25,11 @@
   "homepage": "https://github.com/Cbannerman21/book-serch-engine#readme",
   "dependencies": {
     "apollo-server": "^3.10.0",
+    "apollo-server-express": "^2.15.0",
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1",
     "graphql": "^16.5.0",
-    "mongodb": "^4.8.1"
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.5.2"
   }
 }

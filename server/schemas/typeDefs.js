@@ -29,7 +29,7 @@ input BookInput {
     authors: [String]
     description: String!
     bookId: String!
-    image: string
+    image: String
     link: String
     title: String!
     pageCount: Int
